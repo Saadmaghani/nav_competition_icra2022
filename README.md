@@ -1,8 +1,3 @@
-<p align="center">
-  <img width = "100%" src='res/BARN_Challenge.png' />
-  </p>
-
---------------------------------------------------------------------------------
 
 This is a repo which should be a branch for the ICRA 2022 BARN challenge repo (https://github.com/Daffan/nav-competition-icra2022/)
 
@@ -16,6 +11,15 @@ World files are already included in repo for consistency (as the original had al
 For worlds in DB_05, the plugins need to be created. The world files will also be replaced by the world files you create. I will make a section on some tips to use the "create_plugin_polynomial.py" from the DynaBARN repo https://github.com/aninair1905/DynaBARN. The repo is quite self-explanatory for the most part.
 
 
+
+--------------------------------------------------------------------------------
+
+
+<p align="center">
+  <img width = "100%" src='res/BARN_Challenge.png' />
+  </p>
+
+--------------------------------------------------------------------------------
 
 
 
