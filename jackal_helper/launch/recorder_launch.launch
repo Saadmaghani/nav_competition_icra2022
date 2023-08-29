@@ -1,0 +1,7 @@
+<launch>
+ 
+ <arg name="save_dir" default="/home/saadaghani/recordings"/>
+
+ <node pkg="rosbag" type="record" name="rosbag_recorder"
+    args="record -o $(arg save_dir)/ -a"/>
+</launch>

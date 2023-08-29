@@ -1,0 +1,1 @@
+Avg Time on Successful runs: 10.4837, Avg Metric[0, 0.25]: 0.0591, Avg Success[0, 1]: 0.6000, Avg Collision[0, 1]: 0.4000, Avg Timeout[0, 1]: 0.0000
