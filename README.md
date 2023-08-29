@@ -9,10 +9,15 @@ This is a repo which should be a branch for the ICRA 2022 BARN challenge repo (h
 It has the following changes and limitations:
 1. Only works on Melodic (due to DynaBARN)
 2. Integrated with DynaBARN
-3. Has rviz and gazebo recordings and playback (Buggy & Slow but there :) )
+3. Has rviz and gazebo recordings and playback (Buggy & Slow but there :) ) 
+
+World files are already included in repo for consistency (as the original had all the BARN world files included). However, the plugins for DynaBARN need to be downloaded from https://tufts.app.box.com/s/0dsoen9yno1qrnpj0l75eni7kmjdcx7c from the folder "all_cylinder_plugins" and saved under the jackal_helper/plugins folder. This will work for all worlds in BARN and DynaBARN world. 
+
+For worlds in DB_05, the plugins need to be created. The world files will also be replaced by the world files you create. I will make a section on some tips to use the "create_plugin_polynomial.py" from the DynaBARN repo https://github.com/aninair1905/DynaBARN. The repo is quite self-explanatory for the most part.
 
 
-To get the
+
+
 
 
 # ICRA 2022 BARN Challenge
