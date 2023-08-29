@@ -4,6 +4,17 @@
 
 --------------------------------------------------------------------------------
 
+This is a repo which should be a branch for the ICRA 2022 BARN challenge repo (https://github.com/Daffan/nav-competition-icra2022/)
+
+It has the following changes and limitations:
+1. Only works on Melodic (due to DynaBARN)
+2. Integrated with DynaBARN
+3. Has rviz and gazebo recordings and playback (Buggy & Slow but there :) )
+
+
+To get the
+
+
 # ICRA 2022 BARN Challenge
 
 ## Requirements
